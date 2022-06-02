@@ -1,0 +1,97 @@
+config:
+  WOLF:
+    weight: 50
+    speed: 3
+    satiety: 8
+    count: 30
+    stepForDieWithoutFood: 10
+  SNAKE:
+    weight: 2
+    speed: 1
+    satiety: 0.3
+    count: 123
+    stepForDieWithoutFood: 15
+  FOX:
+    weight: 4
+    speed: 3
+    satiety: 1
+    count: 50
+    stepForDieWithoutFood: 8
+  BEAR:
+    weight: 250
+    speed: 2
+    satiety: 38
+    count: 7
+    stepForDieWithoutFood: 15
+  EAGLE:
+    weight: 6
+    speed: 4
+    satiety: 1
+    count: 166
+    stepForDieWithoutFood: 5
+  HORSE:
+    weight: 300
+    speed: 3
+    satiety: 45
+    count: 23
+    stepForDieWithoutFood: 5
+  DEER:
+    weight: 170
+    speed: 3
+    satiety: 26
+    count: 41
+    stepForDieWithoutFood: 4
+  RABBIT:
+    weight: 3
+    speed: 3
+    satiety: 0.45
+    count: 750
+    stepForDieWithoutFood: 7
+  HAMSTER:
+    weight: 0.03
+    speed: 1
+    satiety: 0.0075
+    count: 10000
+    stepForDieWithoutFood: 3
+  GOAT:
+    weight: 65
+    speed: 1
+    satiety: 10
+    count: 107
+    stepForDieWithoutFood: 5
+  SHEEP:
+    weight: 45
+    speed: 1
+    satiety: 7
+    count: 156
+    stepForDieWithoutFood: 5
+  KANGAROO:
+    weight: 47
+    speed: 2
+    satiety: 7
+    count: 149
+    stepForDieWithoutFood: 8
+  COW:
+    weight: 350
+    speed: 1
+    satiety: 53
+    count: 20
+    stepForDieWithoutFood: 4
+  DUCK:
+    weight: 1
+    speed: 1
+    satiety: 0.15
+    count: 500
+    stepForDieWithoutFood: 4
+  CATERPILLAR:
+    weight: 0.01
+    speed: 1
+    satiety: 0.0025
+    count: 10000
+    stepForDieWithoutFood: 1
+  PLANT:
+    weight: 1
+    speed:
+    satiety:
+    count: 10000
+    stepForDieWithoutFood:
